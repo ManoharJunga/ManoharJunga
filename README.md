@@ -47,4 +47,4 @@
 </p>
 <p><img align="center" src="https://api.githubtrends.io/user/svg/ManoharJunga/repos?time_range=one_year&theme=dark" alt="manoharjunga" /></p> 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ManoharJunga"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ManoharJunga&theme=merko&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
